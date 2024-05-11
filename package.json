@@ -2,7 +2,7 @@
   "private": true,
   "name": "lucasPortfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/luucasfer",
+  "homepage": "https://luucasfer.github.io/my-portifolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
